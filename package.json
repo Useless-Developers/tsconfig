@@ -1,0 +1,19 @@
+{
+  "name": "@useless-developers/tsconfig",
+  "version": "0.0.1",
+  "description": "For useless developers, by useless developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Useless-Developers/tsconfig.git"
+  },
+  "author": "Useless Developers",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Useless-Developers/tsconfig/issues"
+  },
+  "homepage": "https://github.com/Useless-Developers/tsconfig#readme"
+}
